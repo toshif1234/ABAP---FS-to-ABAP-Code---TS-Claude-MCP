@@ -6,7 +6,7 @@ DISCLAIMER: This server is still in experimental status! Use it with caution!
 
 ## Description
 
-The MCP-Server `mcp-abap-abap-adt-api` is a Model Context Protocol (MCP) server designed to facilitate seamless communication between ABAP systems and MCP clients. It is a wrapper for [abap-adt-api](https://github.com/marcellourbani/abap-adt-api/) and provides a suite of tools and resources for managing ABAP objects, handling transport requests, performing code analysis, and more, enhancing the efficiency and effectiveness of ABAP development workflows.
+The MCP-Server `mcp-abap-abap-adt-api` is a Model Context Protocol (MCP) server designed to facilitate seamless communication between ABAP systems and MCP clients. It is a wrapper for [abap-adt-api](https://github.com/toshif1234/ABAP---FS-to-ABAP-Code---TS-Claude-MCP.git) and provides a suite of tools and resources for managing ABAP objects, handling transport requests, performing code analysis, and more, enhancing the efficiency and effectiveness of ABAP development workflows.
 
 ## Features
 
@@ -21,11 +21,9 @@ The MCP-Server `mcp-abap-abap-adt-api` is a Model Context Protocol (MCP) server 
 
 ### Installing via Smithery
 
-To install ABAP-ADT-API MCP-Server for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@mario-andreschak/mcp-abap-abap-adt-api):
+To install ABAP-ADT-API MCP-Server for Claude Desktop automatically via [Smithery](https://github.com/toshif1234/ABAP---FS-to-ABAP-Code---TS-Claude-MCP.git):
 
-```bash
-npx -y @smithery/cli install @mario-andreschak/mcp-abap-abap-adt-api --client claude
-```
+
 
 ### Prerequisites
 
@@ -37,7 +35,7 @@ npx -y @smithery/cli install @mario-andreschak/mcp-abap-abap-adt-api --client cl
 1. **Clone the Repository**
 
    ```cmd
-   git clone https://github.com/mario-andreschak/mcp-abap-abap-adt-api.git
+   git clone https://github.com/toshif1234/ABAP---FS-to-ABAP-Code---TS-Claude-MCP.git
    cd mcp-abap-abap-adt-api
    ```
 
